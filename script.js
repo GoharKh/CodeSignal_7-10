@@ -61,3 +61,5 @@ function solution(n) {
     } console.log(sum1, sum2)
     return (sum1==sum2)
 }
+
+//12
